@@ -1,4 +1,4 @@
-
+-- psql
 create extension tablefunc;
 
 drop table projects;
